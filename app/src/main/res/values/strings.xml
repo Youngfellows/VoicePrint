@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Voiceprint</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">主页</string>
+    <string name="video">视频</string>
+    <string name="care">关注</string>
+    <string name="me">我的</string>
+    <string name="register">注册时需要录音6次,开始录音--->说"你好小西"---->唤醒6次</string>
+    <string name="login">登录时,开始录音--->说"你好小西"</string>
+</resources>
